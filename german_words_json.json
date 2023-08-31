@@ -1,0 +1,2780 @@
+[
+    {
+        "gender": "der",
+        "german": "Apfel",
+        "english": "the apple",
+        "unique_id": "t44aBG"
+    },
+    {
+        "gender": "die",
+        "german": "Katze",
+        "english": "the cat",
+        "unique_id": "7IYoaf"
+    },
+    {
+        "gender": "das",
+        "german": "Haus",
+        "english": "the house",
+        "unique_id": "wvpkr2"
+    },
+    {
+        "gender": "die",
+        "german": "Sonne",
+        "english": "the sun",
+        "unique_id": "vsSECB"
+    },
+    {
+        "gender": "der",
+        "german": "Tisch",
+        "english": "the table",
+        "unique_id": "5Qrvpm"
+    },
+    {
+        "gender": "die",
+        "german": "Blume",
+        "english": "the flower",
+        "unique_id": "t1KENi"
+    },
+    {
+        "gender": "das",
+        "german": "Buch",
+        "english": "the book",
+        "unique_id": "rOjhvX"
+    },
+    {
+        "gender": "der",
+        "german": "Stuhl",
+        "english": "the chair",
+        "unique_id": "6r7aJu"
+    },
+    {
+        "gender": "die",
+        "german": "Lampe",
+        "english": "the lamp",
+        "unique_id": "561Nf1"
+    },
+    {
+        "gender": "der",
+        "german": "Hund",
+        "english": "the dog",
+        "unique_id": "7uPCU5"
+    },
+    {
+        "gender": "das",
+        "german": "Auto",
+        "english": "the car",
+        "unique_id": "bKllbx"
+    },
+    {
+        "gender": "die",
+        "german": "Uhr",
+        "english": "the clock",
+        "unique_id": "5fqKMV"
+    },
+    {
+        "gender": "die",
+        "german": "Maus",
+        "english": "the mouse",
+        "unique_id": "aTgzU3"
+    },
+    {
+        "gender": "der",
+        "german": "Ball",
+        "english": "the ball",
+        "unique_id": "Ow0uxu"
+    },
+    {
+        "gender": "die",
+        "german": "Tür",
+        "english": "the door",
+        "unique_id": "8lnTUV"
+    },
+    {
+        "gender": "der",
+        "german": "Schlüssel",
+        "english": "the key",
+        "unique_id": "393eiY"
+    },
+    {
+        "gender": "der",
+        "german": "Kühlschrank",
+        "english": "the refrigerator",
+        "unique_id": "9XahG0"
+    },
+    {
+        "gender": "die",
+        "german": "Kamera",
+        "english": "the camera",
+        "unique_id": "f15ho8"
+    },
+    {
+        "gender": "das",
+        "german": "Fenster",
+        "english": "the window",
+        "unique_id": "o2hpAO"
+    },
+    {
+        "gender": "die",
+        "german": "Brille",
+        "english": "the glasses",
+        "unique_id": "LFtfTu"
+    },
+    {
+        "gender": "der",
+        "german": "Koffer",
+        "english": "the suitcase",
+        "unique_id": "3rD0uz"
+    },
+    {
+        "gender": "das",
+        "german": "Telefon",
+        "english": "the telephone",
+        "unique_id": "BSfrZd"
+    },
+    {
+        "gender": "der",
+        "german": "Computer",
+        "english": "the computer",
+        "unique_id": "wQvdqo"
+    },
+    {
+        "gender": "die",
+        "german": "Musik",
+        "english": "the music",
+        "unique_id": "qYwH63"
+    },
+    {
+        "gender": "das",
+        "german": "Wasser",
+        "english": "the water",
+        "unique_id": "ixDjBF"
+    },
+    {
+        "gender": "die",
+        "german": "Milch",
+        "english": "the milk",
+        "unique_id": "xE7JNu"
+    },
+    {
+        "gender": "der",
+        "german": "Kaffee",
+        "english": "the coffee",
+        "unique_id": "AGoDBp"
+    },
+    {
+        "gender": "das",
+        "german": "Essen",
+        "english": "the food",
+        "unique_id": "FAI3Fa"
+    },
+    {
+        "gender": "der",
+        "german": "Garten",
+        "english": "the garden",
+        "unique_id": "b53alT"
+    },
+    {
+        "gender": "die",
+        "german": "Straße",
+        "english": "the street",
+        "unique_id": "1mAzyl"
+    },
+    {
+        "gender": "das",
+        "german": "Fahrrad",
+        "english": "the bicycle",
+        "unique_id": "IrE7jy"
+    },
+    {
+        "gender": "der",
+        "german": "Fluss",
+        "english": "the river",
+        "unique_id": "5PHGt7"
+    },
+    {
+        "gender": "die",
+        "german": "Wolke",
+        "english": "the cloud",
+        "unique_id": "y7vCOP"
+    },
+    {
+        "gender": "das",
+        "german": "Schiff",
+        "english": "the ship",
+        "unique_id": "Q0RPDF"
+    },
+    {
+        "gender": "der",
+        "german": "Vogel",
+        "english": "the bird",
+        "unique_id": "umtYZE"
+    },
+    {
+        "gender": "das",
+        "german": "Flugzeug",
+        "english": "the airplane",
+        "unique_id": "qIYHCq"
+    },
+    {
+        "gender": "der",
+        "german": "Regen",
+        "english": "the rain",
+        "unique_id": "2AvOvU"
+    },
+    {
+        "gender": "der",
+        "german": "Schnee",
+        "english": "the snow",
+        "unique_id": "osrvjt"
+    },
+    {
+        "gender": "die",
+        "german": "Hand",
+        "english": "the hand",
+        "unique_id": "5qS18i"
+    },
+    {
+        "gender": "der",
+        "german": "Fuß",
+        "english": "the foot",
+        "unique_id": "irkzeP"
+    },
+    {
+        "gender": "die",
+        "german": "Nase",
+        "english": "the nose",
+        "unique_id": "D5PbtO"
+    },
+    {
+        "gender": "das",
+        "german": "Auge",
+        "english": "the eye",
+        "unique_id": "R0QO6l"
+    },
+    {
+        "gender": "der",
+        "german": "Mund",
+        "english": "the mouth",
+        "unique_id": "hxho8D"
+    },
+    {
+        "gender": "der",
+        "german": "Kopf",
+        "english": "the head",
+        "unique_id": "4Xx7SO"
+    },
+    {
+        "gender": "die",
+        "german": "Schulter",
+        "english": "the shoulder",
+        "unique_id": "zSZ9Nm"
+    },
+    {
+        "gender": "der",
+        "german": "Bauch",
+        "english": "the stomach",
+        "unique_id": "JWV8kr"
+    },
+    {
+        "gender": "das",
+        "german": "Bein",
+        "english": "the leg",
+        "unique_id": "NTKxpU"
+    },
+    {
+        "gender": "der",
+        "german": "Arm",
+        "english": "the arm",
+        "unique_id": "y8y3jB"
+    },
+    {
+        "gender": "die",
+        "german": "Ohr",
+        "english": "the ear",
+        "unique_id": "cnZjzv"
+    },
+    {
+        "gender": "die",
+        "german": "Zunge",
+        "english": "the tongue",
+        "unique_id": "Y8twml"
+    },
+    {
+        "gender": "die",
+        "german": "Zähne",
+        "english": "the teeth",
+        "unique_id": "roltaF"
+    },
+    {
+        "gender": "der",
+        "german": "Hals",
+        "english": "the neck",
+        "unique_id": "B55wim"
+    },
+    {
+        "gender": "der",
+        "german": "Rücken",
+        "english": "the back",
+        "unique_id": "yeqdfk"
+    },
+    {
+        "gender": "die",
+        "german": "Haut",
+        "english": "the skin",
+        "unique_id": "tbMAOp"
+    },
+    {
+        "gender": "der",
+        "german": "Knochen",
+        "english": "the bone",
+        "unique_id": "p1cOGQ"
+    },
+    {
+        "gender": "die",
+        "german": "Blut",
+        "english": "the blood",
+        "unique_id": "gyK2yY"
+    },
+    {
+        "gender": "das",
+        "german": "Herz",
+        "english": "the heart",
+        "unique_id": "5rnJxv"
+    },
+    {
+        "gender": "die",
+        "german": "Lunge",
+        "english": "the lung",
+        "unique_id": "iN7VX3"
+    },
+    {
+        "gender": "die",
+        "german": "Leber",
+        "english": "the liver",
+        "unique_id": "SE8aeF"
+    },
+    {
+        "gender": "der",
+        "german": "Magen",
+        "english": "the stomach",
+        "unique_id": "d0vITj"
+    },
+    {
+        "gender": "die",
+        "german": "Niere",
+        "english": "the kidney",
+        "unique_id": "sqqLir"
+    },
+    {
+        "gender": "die",
+        "german": "Blase",
+        "english": "the bladder",
+        "unique_id": "2PNxTh"
+    },
+    {
+        "gender": "das",
+        "german": "Gehirn",
+        "english": "the brain",
+        "unique_id": "z2KyaI"
+    },
+    {
+        "gender": "die",
+        "german": "Leine",
+        "english": "the leash",
+        "unique_id": "YIfvfe"
+    },
+    {
+        "gender": "die",
+        "german": "Schule",
+        "english": "the school",
+        "unique_id": "NwCrGN"
+    },
+    {
+        "gender": "das",
+        "german": "Universität",
+        "english": "the university",
+        "unique_id": "7i8OEX"
+    },
+    {
+        "gender": "die",
+        "german": "Bibliothek",
+        "english": "the library",
+        "unique_id": "SsofZo"
+    },
+    {
+        "gender": "der",
+        "german": "Lehrer",
+        "english": "the teacher",
+        "unique_id": "l9eUMz"
+    },
+    {
+        "gender": "die",
+        "german": "Studentin",
+        "english": "the student - female",
+        "unique_id": "zoD4Fl"
+    },
+    {
+        "gender": "der",
+        "german": "Student",
+        "english": "the student - male",
+        "unique_id": "XLSIlS"
+    },
+    {
+        "gender": "die",
+        "german": "Klasse",
+        "english": "the class",
+        "unique_id": "9nguiF"
+    },
+    {
+        "gender": "das",
+        "german": "Papier",
+        "english": "the paper",
+        "unique_id": "Img9dK"
+    },
+    {
+        "gender": "der",
+        "german": "Bleistift",
+        "english": "the pencil",
+        "unique_id": "nXB1hV"
+    },
+    {
+        "gender": "der",
+        "german": "Kugelschreiber",
+        "english": "the pen",
+        "unique_id": "SywRfH"
+    },
+    {
+        "gender": "die",
+        "german": "Kreide",
+        "english": "the chalk",
+        "unique_id": "qYrh1m"
+    },
+    {
+        "gender": "der",
+        "german": "Radiergummi",
+        "english": "the eraser",
+        "unique_id": "vn60nu"
+    },
+    {
+        "gender": "der",
+        "german": "Rucksack",
+        "english": "the backpack",
+        "unique_id": "FybP1k"
+    },
+    {
+        "gender": "der",
+        "german": "Schreibtisch",
+        "english": "the desk",
+        "unique_id": "mSOKSY"
+    },
+    {
+        "gender": "die",
+        "german": "Tafel",
+        "english": "the blackboard",
+        "unique_id": "Xxtl0J"
+    },
+    {
+        "gender": "die",
+        "german": "Prüfung",
+        "english": "the exam",
+        "unique_id": "r1EqBk"
+    },
+    {
+        "gender": "das",
+        "german": "Labor",
+        "english": "the laboratory",
+        "unique_id": "HA1xT2"
+    },
+    {
+        "gender": "die",
+        "german": "Pause",
+        "english": "the break",
+        "unique_id": "XDzCXv"
+    },
+    {
+        "gender": "die",
+        "german": "Ferien",
+        "english": "the holidays/vacation",
+        "unique_id": "reKUqK"
+    },
+    {
+        "gender": "die",
+        "german": "Sprache",
+        "english": "the language",
+        "unique_id": "MNKREv"
+    },
+    {
+        "gender": "das",
+        "german": "Wort",
+        "english": "the word",
+        "unique_id": "IQGwG1"
+    },
+    {
+        "gender": "die",
+        "german": "Grammatik",
+        "english": "the grammar",
+        "unique_id": "yCGASr"
+    },
+    {
+        "gender": "die",
+        "german": "Aussprache",
+        "english": "the pronunciation",
+        "unique_id": "NzfjSk"
+    },
+    {
+        "gender": "der",
+        "german": "Satz",
+        "english": "the sentence",
+        "unique_id": "9JfUTu"
+    },
+    {
+        "gender": "das",
+        "german": "Verb",
+        "english": "the verb",
+        "unique_id": "BUT3qW"
+    },
+    {
+        "gender": "das",
+        "german": "Substantiv",
+        "english": "the noun",
+        "unique_id": "xDWvQq"
+    },
+    {
+        "gender": "das",
+        "german": "Adjektiv",
+        "english": "the adjective",
+        "unique_id": "8N8qDJ"
+    },
+    {
+        "gender": "das",
+        "german": "Adverb",
+        "english": "the adverb",
+        "unique_id": "qOgRgG"
+    },
+    {
+        "gender": "die",
+        "german": "Konjugation",
+        "english": "the conjugation",
+        "unique_id": "97WWBz"
+    },
+    {
+        "gender": "die",
+        "german": "Deklination",
+        "english": "the declension",
+        "unique_id": "s2NpIx"
+    },
+    {
+        "gender": "die",
+        "german": "Vokabel",
+        "english": "the vocabulary word",
+        "unique_id": "nLbCqD"
+    },
+    {
+        "gender": "der",
+        "german": "Satzbau",
+        "english": "the sentence structure",
+        "unique_id": "pmvact"
+    },
+    {
+        "gender": "das",
+        "german": "Alphabet",
+        "english": "the alphabet",
+        "unique_id": "EWfGwp"
+    },
+    {
+        "gender": "die",
+        "german": "Zahl",
+        "english": "the number",
+        "unique_id": "9l2COa"
+    },
+    {
+        "gender": "die",
+        "german": "Farbe",
+        "english": "the color",
+        "unique_id": "SMvhvd"
+    },
+    {
+        "gender": "das",
+        "german": "Tier",
+        "english": "the animal",
+        "unique_id": "krl2wb"
+    },
+    {
+        "gender": "die",
+        "german": "Natur",
+        "english": "the nature",
+        "unique_id": "1S3IuR"
+    },
+    {
+        "gender": "die",
+        "german": "Umwelt",
+        "english": "the environment",
+        "unique_id": "h3o4FS"
+    },
+    {
+        "gender": "die",
+        "german": "Getränke",
+        "english": "the drinks",
+        "unique_id": "8x8gRq"
+    },
+    {
+        "gender": "die",
+        "german": "Frucht",
+        "english": "the fruit",
+        "unique_id": "KXDmaW"
+    },
+    {
+        "gender": "das",
+        "german": "Gemüse",
+        "english": "the vegetable",
+        "unique_id": "NgJNn8"
+    },
+    {
+        "gender": "das",
+        "german": "Fleisch",
+        "english": "the meat",
+        "unique_id": "PsJQA2"
+    },
+    {
+        "gender": "die",
+        "german": "Suppe",
+        "english": "the soup",
+        "unique_id": "D31Z8Q"
+    },
+    {
+        "gender": "der",
+        "german": "Kuchen",
+        "english": "the cake",
+        "unique_id": "gd967W"
+    },
+    {
+        "gender": "das",
+        "german": "Brot",
+        "english": "the bread",
+        "unique_id": "S9dpf8"
+    },
+    {
+        "gender": "der",
+        "german": "Tee",
+        "english": "the tea",
+        "unique_id": "R5ZCPM"
+    },
+    {
+        "gender": "das",
+        "german": "Bier",
+        "english": "the beer",
+        "unique_id": "IiCksD"
+    },
+    {
+        "gender": "der",
+        "german": "Wein",
+        "english": "the wine",
+        "unique_id": "SRT1R2"
+    },
+    {
+        "gender": "die",
+        "german": "Schokolade",
+        "english": "the chocolate",
+        "unique_id": "227Jis"
+    },
+    {
+        "gender": "die",
+        "german": "Pizza",
+        "english": "the pizza",
+        "unique_id": "W3Q3UQ"
+    },
+    {
+        "gender": "die",
+        "german": "Pasta",
+        "english": "the pasta",
+        "unique_id": "uXiHOV"
+    },
+    {
+        "gender": "das",
+        "german": "Eis",
+        "english": "the ice cream",
+        "unique_id": "dW7clw"
+    },
+    {
+        "gender": "die",
+        "german": "Butter",
+        "english": "the butter",
+        "unique_id": "O5ADEc"
+    },
+    {
+        "gender": "der",
+        "german": "Honig",
+        "english": "the honey",
+        "unique_id": "k07rq4"
+    },
+    {
+        "gender": "das",
+        "german": "Salz",
+        "english": "the salt",
+        "unique_id": "tOGLRg"
+    },
+    {
+        "gender": "der",
+        "german": "Pfeffer",
+        "english": "the pepper",
+        "unique_id": "rgZVFU"
+    },
+    {
+        "gender": "das",
+        "german": "Öl",
+        "english": "the oil",
+        "unique_id": "AA1vEL"
+    },
+    {
+        "gender": "die",
+        "german": "Tomate",
+        "english": "the tomato",
+        "unique_id": "0KUaOc"
+    },
+    {
+        "gender": "die",
+        "german": "Kartoffel",
+        "english": "the potato",
+        "unique_id": "Rm3jj8"
+    },
+    {
+        "gender": "der",
+        "german": "Reis",
+        "english": "the rice",
+        "unique_id": "Biiigh"
+    },
+    {
+        "gender": "der",
+        "german": "Fisch",
+        "english": "the fish",
+        "unique_id": "iuAqNY"
+    },
+    {
+        "gender": "die",
+        "german": "Zwiebel",
+        "english": "the onion",
+        "unique_id": "3Jwrwb"
+    },
+    {
+        "gender": "der",
+        "german": "Knoblauch",
+        "english": "the garlic",
+        "unique_id": "AeUWAU"
+    },
+    {
+        "gender": "das",
+        "german": "Obst",
+        "english": "the fruit - general term",
+        "unique_id": "1F4l7k"
+    },
+    {
+        "gender": "die",
+        "german": "Stadt",
+        "english": "the city",
+        "unique_id": "zW39BI"
+    },
+    {
+        "gender": "das",
+        "german": "Dorf",
+        "english": "the village",
+        "unique_id": "XGO1Ah"
+    },
+    {
+        "gender": "der",
+        "german": "Wald",
+        "english": "the forest",
+        "unique_id": "pYzTxI"
+    },
+    {
+        "gender": "der",
+        "german": "See",
+        "english": "the lake",
+        "unique_id": "aHHadK"
+    },
+    {
+        "gender": "das",
+        "german": "Meer",
+        "english": "the sea",
+        "unique_id": "iH0Aff"
+    },
+    {
+        "gender": "der",
+        "german": "Himmel",
+        "english": "the sky",
+        "unique_id": "7bkUUu"
+    },
+    {
+        "gender": "der",
+        "german": "Mond",
+        "english": "the moon",
+        "unique_id": "Agnp9q"
+    },
+    {
+        "gender": "die",
+        "german": "Sterne",
+        "english": "the stars",
+        "unique_id": "6XaCOf"
+    },
+    {
+        "gender": "der",
+        "german": "Regenbogen",
+        "english": "the rainbow",
+        "unique_id": "a8sN7D"
+    },
+    {
+        "gender": "der",
+        "german": "Wind",
+        "english": "the wind",
+        "unique_id": "nCfwcA"
+    },
+    {
+        "gender": "der",
+        "german": "Sturm",
+        "english": "the storm",
+        "unique_id": "01rZ5e"
+    },
+    {
+        "gender": "der",
+        "german": "Blitz",
+        "english": "the lightning",
+        "unique_id": "6pXHaQ"
+    },
+    {
+        "gender": "der",
+        "german": "Donner",
+        "english": "the thunder",
+        "unique_id": "tDvQC0"
+    },
+    {
+        "gender": "das",
+        "german": "Feuer",
+        "english": "the fire",
+        "unique_id": "7lhL9R"
+    },
+    {
+        "gender": "der",
+        "german": "Rauch",
+        "english": "the smoke",
+        "unique_id": "Boc4VT"
+    },
+    {
+        "gender": "die",
+        "german": "Wohnung",
+        "english": "the apartment",
+        "unique_id": "85Liz0"
+    },
+    {
+        "gender": "das",
+        "german": "Zimmer",
+        "english": "the room",
+        "unique_id": "MOC9iG"
+    },
+    {
+        "gender": "die",
+        "german": "Küche",
+        "english": "the kitchen",
+        "unique_id": "Hb86wl"
+    },
+    {
+        "gender": "das",
+        "german": "Bad",
+        "english": "the bathroom",
+        "unique_id": "abeonv"
+    },
+    {
+        "gender": "das",
+        "german": "Schlafzimmer",
+        "english": "the bedroom",
+        "unique_id": "jJzYc4"
+    },
+    {
+        "gender": "das",
+        "german": "Wohnzimmer",
+        "english": "the living room",
+        "unique_id": "v2vhR9"
+    },
+    {
+        "gender": "der",
+        "german": "Balkon",
+        "english": "the balcony",
+        "unique_id": "Y7zUZ4"
+    },
+    {
+        "gender": "das",
+        "german": "Sofa",
+        "english": "the sofa",
+        "unique_id": "YHiHC0"
+    },
+    {
+        "gender": "das",
+        "german": "Bett",
+        "english": "the bed",
+        "unique_id": "fCNJSR"
+    },
+    {
+        "gender": "der",
+        "german": "Schrank",
+        "english": "the wardrobe",
+        "unique_id": "r4mAbl"
+    },
+    {
+        "gender": "der",
+        "german": "Spiegel",
+        "english": "the mirror",
+        "unique_id": "jKeG1n"
+    },
+    {
+        "gender": "der",
+        "german": "Teppich",
+        "english": "the carpet",
+        "unique_id": "Ke034g"
+    },
+    {
+        "gender": "die",
+        "german": "Wand",
+        "english": "the wall",
+        "unique_id": "1dYyMw"
+    },
+    {
+        "gender": "die",
+        "german": "Decke",
+        "english": "the ceiling",
+        "unique_id": "mMN5h2"
+    },
+    {
+        "gender": "der",
+        "german": "Boden",
+        "english": "the floor",
+        "unique_id": "riFmwn"
+    },
+    {
+        "gender": "die",
+        "german": "Treppe",
+        "english": "the staircase",
+        "unique_id": "NtV9UX"
+    },
+    {
+        "gender": "der",
+        "german": "Aufzug",
+        "english": "the elevator/lift",
+        "unique_id": "abyi5V"
+    },
+    {
+        "gender": "das",
+        "german": "Schloss",
+        "english": "the lock",
+        "unique_id": "R3ShGX"
+    },
+    {
+        "gender": "der",
+        "german": "Wecker",
+        "english": "the alarm clock",
+        "unique_id": "jfHMtk"
+    },
+    {
+        "gender": "der",
+        "german": "Hut",
+        "english": "the hat",
+        "unique_id": "tV2JM4"
+    },
+    {
+        "gender": "die",
+        "german": "Mütze",
+        "english": "the cap",
+        "unique_id": "bKXK7r"
+    },
+    {
+        "gender": "der",
+        "german": "Schal",
+        "english": "the scarf",
+        "unique_id": "XxWxDG"
+    },
+    {
+        "gender": "der",
+        "german": "Handschuh",
+        "english": "the glove",
+        "unique_id": "GndgKc"
+    },
+    {
+        "gender": "die",
+        "german": "Tasche",
+        "english": "the bag",
+        "unique_id": "WAk7mN"
+    },
+    {
+        "gender": "die",
+        "german": "Geldbörse",
+        "english": "the wallet",
+        "unique_id": "AD513s"
+    },
+    {
+        "gender": "das",
+        "german": "Handy",
+        "english": "the mobile phone",
+        "unique_id": "Jc0lCl"
+    },
+    {
+        "gender": "der",
+        "german": "Bildschirm",
+        "english": "the screen",
+        "unique_id": "9D92UZ"
+    },
+    {
+        "gender": "die",
+        "german": "Tastatur",
+        "english": "the keyboard",
+        "unique_id": "VpZGlh"
+    },
+    {
+        "gender": "das",
+        "german": "Mikrofon",
+        "english": "the microphone",
+        "unique_id": "BhBCpl"
+    },
+    {
+        "gender": "die",
+        "german": "Kopfhörer",
+        "english": "the headphones",
+        "unique_id": "QDYaZb"
+    },
+    {
+        "gender": "der",
+        "german": "Drucker",
+        "english": "the printer",
+        "unique_id": "sfdrC4"
+    },
+    {
+        "gender": "der",
+        "german": "Fernseher",
+        "english": "the television",
+        "unique_id": "Jfimda"
+    },
+    {
+        "gender": "der",
+        "german": "DVD-Player",
+        "english": "the DVD player",
+        "unique_id": "nbotOV"
+    },
+    {
+        "gender": "das",
+        "german": "Radio",
+        "english": "the radio",
+        "unique_id": "FVwL66"
+    },
+    {
+        "gender": "die",
+        "german": "Zeitung",
+        "english": "the newspaper",
+        "unique_id": "Wqz5Nr"
+    },
+    {
+        "gender": "die",
+        "german": "Zeitschrift",
+        "english": "the magazine",
+        "unique_id": "qKJvF2"
+    },
+    {
+        "gender": "das",
+        "german": "Magazin",
+        "english": "the magazine",
+        "unique_id": "j4BBrF"
+    },
+    {
+        "gender": "der",
+        "german": "Brief",
+        "english": "the letter",
+        "unique_id": "FaQh77"
+    },
+    {
+        "gender": "die",
+        "german": "Postkarte",
+        "english": "the postcard",
+        "unique_id": "QBmOjL"
+    },
+    {
+        "gender": "das",
+        "german": "Paket",
+        "english": "the package",
+        "unique_id": "fKcVpX"
+    },
+    {
+        "gender": "die",
+        "german": "Schere",
+        "english": "the scissors",
+        "unique_id": "aMxY7c"
+    },
+    {
+        "gender": "der",
+        "german": "Klebstoff",
+        "english": "the glue",
+        "unique_id": "EJbPRR"
+    },
+    {
+        "gender": "der",
+        "german": "Pinsel",
+        "english": "the brush",
+        "unique_id": "574RYl"
+    },
+    {
+        "gender": "der",
+        "german": "Filzstift",
+        "english": "the marker",
+        "unique_id": "g1rGLQ"
+    },
+    {
+        "gender": "der",
+        "german": "Spitzer",
+        "english": "the sharpener",
+        "unique_id": "AR6TCk"
+    },
+    {
+        "gender": "der",
+        "german": "Stift",
+        "english": "the pen",
+        "unique_id": "clbpQj"
+    },
+    {
+        "gender": "das",
+        "german": "Lineal",
+        "english": "the ruler",
+        "unique_id": "F9pNSG"
+    },
+    {
+        "gender": "das",
+        "german": "Heft",
+        "english": "the exercise book",
+        "unique_id": "n1t2MR"
+    },
+    {
+        "gender": "das",
+        "german": "Notizbuch",
+        "english": "the notebook",
+        "unique_id": "cLyjwc"
+    },
+    {
+        "gender": "das",
+        "german": "Tagebuch",
+        "english": "the diary",
+        "unique_id": "W5tFZe"
+    },
+    {
+        "gender": "die",
+        "german": "Kleidung",
+        "english": "the clothing",
+        "unique_id": "9TuCsB"
+    },
+    {
+        "gender": "das",
+        "german": "Hemd",
+        "english": "the shirt",
+        "unique_id": "dxFVXw"
+    },
+    {
+        "gender": "die",
+        "german": "Bluse",
+        "english": "the blouse",
+        "unique_id": "bGH5So"
+    },
+    {
+        "gender": "das",
+        "german": "T-Shirt",
+        "english": "the T-shirt",
+        "unique_id": "s58lSE"
+    },
+    {
+        "gender": "der",
+        "german": "Pullover",
+        "english": "the sweater",
+        "unique_id": "jt6ajE"
+    },
+    {
+        "gender": "die",
+        "german": "Jacke",
+        "english": "the jacket",
+        "unique_id": "Dzvufg"
+    },
+    {
+        "gender": "die",
+        "german": "Hose",
+        "english": "the trousers/pants",
+        "unique_id": "OImIN5"
+    },
+    {
+        "gender": "der",
+        "german": "Rock",
+        "english": "the skirt",
+        "unique_id": "pex9a1"
+    },
+    {
+        "gender": "das",
+        "german": "Kleid",
+        "english": "the dress",
+        "unique_id": "sg5f2a"
+    },
+    {
+        "gender": "der",
+        "german": "Anzug",
+        "english": "the suit",
+        "unique_id": "YPntzY"
+    },
+    {
+        "gender": "der",
+        "german": "Schlafanzug",
+        "english": "the pajamas",
+        "unique_id": "Hgjnf0"
+    },
+    {
+        "gender": "der",
+        "german": "Badeanzug",
+        "english": "the swimsuit",
+        "unique_id": "oiuyLb"
+    },
+    {
+        "gender": "die",
+        "german": "Unterwäsche",
+        "english": "the underwear",
+        "unique_id": "j8BegV"
+    },
+    {
+        "gender": "die",
+        "german": "Socken",
+        "english": "the socks",
+        "unique_id": "D5iSw6"
+    },
+    {
+        "gender": "die",
+        "german": "Schuhe",
+        "english": "the shoes",
+        "unique_id": "OC28qE"
+    },
+    {
+        "gender": "die",
+        "german": "Stiefel",
+        "english": "the boots",
+        "unique_id": "ySbohz"
+    },
+    {
+        "gender": "die",
+        "german": "Sandalen",
+        "english": "the sandals",
+        "unique_id": "Q5PAy2"
+    },
+    {
+        "gender": "der",
+        "german": "Gürtel",
+        "english": "the belt",
+        "unique_id": "UXSJzp"
+    },
+    {
+        "gender": "die",
+        "german": "Krawatte",
+        "english": "the tie",
+        "unique_id": "6TWYEY"
+    },
+    {
+        "gender": "der",
+        "german": "Schmuck",
+        "english": "the jewelry",
+        "unique_id": "Z2kaDY"
+    },
+    {
+        "gender": "der",
+        "german": "Ring",
+        "english": "the ring",
+        "unique_id": "wKBjKp"
+    },
+    {
+        "gender": "die",
+        "german": "Kette",
+        "english": "the necklace",
+        "unique_id": "4RY0Mq"
+    },
+    {
+        "gender": "die",
+        "german": "Ohrringe",
+        "english": "the earrings",
+        "unique_id": "S6tzlC"
+    },
+    {
+        "gender": "das",
+        "german": "Armband",
+        "english": "the bracelet",
+        "unique_id": "goX3Vg"
+    },
+    {
+        "gender": "das",
+        "german": "Haar",
+        "english": "the hair",
+        "unique_id": "psO4cO"
+    },
+    {
+        "gender": "der",
+        "german": "Bart",
+        "english": "the beard",
+        "unique_id": "BEMG4H"
+    },
+    {
+        "gender": "der",
+        "german": "Schnurrbart",
+        "english": "the mustache",
+        "unique_id": "bVrUJH"
+    },
+    {
+        "gender": "der",
+        "german": "Zopf",
+        "english": "the braid",
+        "unique_id": "5PqOHh"
+    },
+    {
+        "gender": "die",
+        "german": "Frisur",
+        "english": "the hairstyle",
+        "unique_id": "f3r3yO"
+    },
+    {
+        "gender": "der",
+        "german": "Friseur",
+        "english": "the hairdresser",
+        "unique_id": "8KsOQ7"
+    },
+    {
+        "gender": "die",
+        "german": "Zahnbürste",
+        "english": "the toothbrush",
+        "unique_id": "UWJ04u"
+    },
+    {
+        "gender": "die",
+        "german": "Zahnpasta",
+        "english": "the toothpaste",
+        "unique_id": "CbQFGx"
+    },
+    {
+        "gender": "die",
+        "german": "Seife",
+        "english": "the soap",
+        "unique_id": "958x33"
+    },
+    {
+        "gender": "das",
+        "german": "Shampoo",
+        "english": "the shampoo",
+        "unique_id": "mst2fR"
+    },
+    {
+        "gender": "der",
+        "german": "Kamm",
+        "english": "the comb",
+        "unique_id": "OKTOZs"
+    },
+    {
+        "gender": "die",
+        "german": "Bürste",
+        "english": "the brush",
+        "unique_id": "FYLnZf"
+    },
+    {
+        "gender": "das",
+        "german": "Handtuch",
+        "english": "the towel",
+        "unique_id": "MpmTxG"
+    },
+    {
+        "gender": "die",
+        "german": "Badewanne",
+        "english": "the bathtub",
+        "unique_id": "Pjx12y"
+    },
+    {
+        "gender": "die",
+        "german": "Dusche",
+        "english": "the shower",
+        "unique_id": "SteRqg"
+    },
+    {
+        "gender": "das",
+        "german": "Waschbecken",
+        "english": "the sink",
+        "unique_id": "TTfiWh"
+    },
+    {
+        "gender": "der",
+        "german": "Föhn",
+        "english": "the hairdryer",
+        "unique_id": "KJobSf"
+    },
+    {
+        "gender": "das",
+        "german": "WC",
+        "english": "the toilet",
+        "unique_id": "o4RhGm"
+    },
+    {
+        "gender": "das",
+        "german": "Toilettenpapier",
+        "english": "the toilet paper",
+        "unique_id": "CRnaG2"
+    },
+    {
+        "gender": "das",
+        "german": "Waschmittel",
+        "english": "the detergent",
+        "unique_id": "cGa3zv"
+    },
+    {
+        "gender": "der",
+        "german": "Schwamm",
+        "english": "the sponge",
+        "unique_id": "LDJHxC"
+    },
+    {
+        "gender": "der",
+        "german": "Eimer",
+        "english": "the bucket",
+        "unique_id": "NKRjb6"
+    },
+    {
+        "gender": "der",
+        "german": "Besen",
+        "english": "the broom",
+        "unique_id": "erI3QA"
+    },
+    {
+        "gender": "der",
+        "german": "Staubsauger",
+        "english": "the vacuum cleaner",
+        "unique_id": "q4vin6"
+    },
+    {
+        "gender": "der",
+        "german": "Mülleimer",
+        "english": "the trash can",
+        "unique_id": "b3fcHV"
+    },
+    {
+        "gender": "das",
+        "german": "Messer",
+        "english": "the knife",
+        "unique_id": "CJNA8e"
+    },
+    {
+        "gender": "die",
+        "german": "Gabel",
+        "english": "the fork",
+        "unique_id": "V1T3tn"
+    },
+    {
+        "gender": "der",
+        "german": "Löffel",
+        "english": "the spoon",
+        "unique_id": "3laYmN"
+    },
+    {
+        "gender": "der",
+        "german": "Teller",
+        "english": "the plate",
+        "unique_id": "SXrNEO"
+    },
+    {
+        "gender": "die",
+        "german": "Schüssel",
+        "english": "the bowl",
+        "unique_id": "yJS6TK"
+    },
+    {
+        "gender": "die",
+        "german": "Tasse",
+        "english": "the cup",
+        "unique_id": "K4gPaD"
+    },
+    {
+        "gender": "das",
+        "german": "Glas",
+        "english": "the glass",
+        "unique_id": "5vOifX"
+    },
+    {
+        "gender": "die",
+        "german": "Serviette",
+        "english": "the napkin",
+        "unique_id": "DlpvTA"
+    },
+    {
+        "gender": "die",
+        "german": "Flasche",
+        "english": "the bottle",
+        "unique_id": "H1qGRS"
+    },
+    {
+        "gender": "der",
+        "german": "Topf",
+        "english": "the pot",
+        "unique_id": "30rI23"
+    },
+    {
+        "gender": "die",
+        "german": "Pfanne",
+        "english": "the pan",
+        "unique_id": "30rd6v"
+    },
+    {
+        "gender": "der",
+        "german": "Ofen",
+        "english": "the oven",
+        "unique_id": "TmuSA7"
+    },
+    {
+        "gender": "der",
+        "german": "Herd",
+        "english": "the stove",
+        "unique_id": "vmgSJI"
+    },
+    {
+        "gender": "die",
+        "german": "Mikrowelle",
+        "english": "the microwave",
+        "unique_id": "4SmQ4t"
+    },
+    {
+        "gender": "der",
+        "german": "Toaster",
+        "english": "the toaster",
+        "unique_id": "PvckJq"
+    },
+    {
+        "gender": "die",
+        "german": "Kaffeemaschine",
+        "english": "the coffee machine",
+        "unique_id": "XgdlMZ"
+    },
+    {
+        "gender": "die",
+        "german": "Teekanne",
+        "english": "the teapot",
+        "unique_id": "pheFoj"
+    },
+    {
+        "gender": "die",
+        "german": "Zuckerzange",
+        "english": "the sugar tongs",
+        "unique_id": "GiSlgJ"
+    },
+    {
+        "gender": "das",
+        "german": "Tablett",
+        "english": "the tray",
+        "unique_id": "qPoLOE"
+    },
+    {
+        "gender": "die",
+        "german": "Schale",
+        "english": "the bowl",
+        "unique_id": "DEEBWn"
+    },
+    {
+        "gender": "die",
+        "german": "Platte",
+        "english": "the platter",
+        "unique_id": "mFBSgr"
+    },
+    {
+        "gender": "die",
+        "german": "Untertasse",
+        "english": "the saucer",
+        "unique_id": "dd3wkK"
+    },
+    {
+        "gender": "der",
+        "german": "Becher",
+        "english": "the mug",
+        "unique_id": "Fi1BHu"
+    },
+    {
+        "gender": "der",
+        "german": "Korkenzieher",
+        "english": "the corkscrew",
+        "unique_id": "MdO7PP"
+    },
+    {
+        "gender": "der",
+        "german": "Flaschenöffner",
+        "english": "the bottle opener",
+        "unique_id": "AfB50Q"
+    },
+    {
+        "gender": "der",
+        "german": "Eiskratzer",
+        "english": "the ice scraper",
+        "unique_id": "j5EYmM"
+    },
+    {
+        "gender": "der",
+        "german": "Sonnenschirm",
+        "english": "the parasol",
+        "unique_id": "oVjWdk"
+    },
+    {
+        "gender": "der",
+        "german": "Regenschirm",
+        "english": "the umbrella",
+        "unique_id": "GEg6w1"
+    },
+    {
+        "gender": "das",
+        "german": "Feuerzeug",
+        "english": "the lighter",
+        "unique_id": "m0LBiX"
+    },
+    {
+        "gender": "die",
+        "german": "Kerze",
+        "english": "the candle",
+        "unique_id": "ZDk9o0"
+    },
+    {
+        "gender": "der",
+        "german": "Aschenbecher",
+        "english": "the ashtray",
+        "unique_id": "1FcuiV"
+    },
+    {
+        "gender": "das",
+        "german": "Feuerwerk",
+        "english": "the fireworks",
+        "unique_id": "Y5nwDZ"
+    },
+    {
+        "gender": "der",
+        "german": "Ballon",
+        "english": "the balloon",
+        "unique_id": "dZ10nO"
+    },
+    {
+        "gender": "das",
+        "german": "Geschenk",
+        "english": "the gift/present",
+        "unique_id": "QPnQHH"
+    },
+    {
+        "gender": "die",
+        "german": "Blumen",
+        "english": "the flowers",
+        "unique_id": "RQNP2g"
+    },
+    {
+        "gender": "die",
+        "german": "Karte",
+        "english": "the card",
+        "unique_id": "96mnBQ"
+    },
+    {
+        "gender": "die",
+        "german": "Schachtel",
+        "english": "the box",
+        "unique_id": "CYX8Iq"
+    },
+    {
+        "gender": "der",
+        "german": "Umschlag",
+        "english": "the envelope",
+        "unique_id": "d6bEhk"
+    },
+    {
+        "gender": "die",
+        "german": "Verpackung",
+        "english": "the packaging",
+        "unique_id": "FLNqjH"
+    },
+    {
+        "gender": "der",
+        "german": "Etikett",
+        "english": "the label",
+        "unique_id": "r7SNcf"
+    },
+    {
+        "gender": "die",
+        "german": "Dose",
+        "english": "the can",
+        "unique_id": "XCyQQ6"
+    },
+    {
+        "gender": "die",
+        "german": "Tube",
+        "english": "the tube",
+        "unique_id": "sQYtaN"
+    },
+    {
+        "gender": "der",
+        "german": "Karton",
+        "english": "the carton",
+        "unique_id": "d3iNjF"
+    },
+    {
+        "gender": "der",
+        "german": "Beutel",
+        "english": "the bag/pouch",
+        "unique_id": "VQAmy0"
+    },
+    {
+        "gender": "das",
+        "german": "Päckchen",
+        "english": "the packet",
+        "unique_id": "bhXihC"
+    },
+    {
+        "gender": "der",
+        "german": "Stoff",
+        "english": "the fabric",
+        "unique_id": "T2SrKU"
+    },
+    {
+        "gender": "der",
+        "german": "Knopf",
+        "english": "the button",
+        "unique_id": "7Pv2At"
+    },
+    {
+        "gender": "der",
+        "german": "Reißverschluss",
+        "english": "the zipper",
+        "unique_id": "iUWdhT"
+    },
+    {
+        "gender": "der",
+        "german": "Haken",
+        "english": "the hook",
+        "unique_id": "Uy5Kl5"
+    },
+    {
+        "gender": "der",
+        "german": "Knoten",
+        "english": "the knot",
+        "unique_id": "f2d2Zg"
+    },
+    {
+        "gender": "das",
+        "german": "Band",
+        "english": "the ribbon",
+        "unique_id": "63Vd1m"
+    },
+    {
+        "gender": "die",
+        "german": "Nadel",
+        "english": "the needle",
+        "unique_id": "iC53mV"
+    },
+    {
+        "gender": "das",
+        "german": "Garn",
+        "english": "the thread",
+        "unique_id": "jCPFbe"
+    },
+    {
+        "gender": "das",
+        "german": "Nähzeug",
+        "english": "the sewing kit",
+        "unique_id": "n18HJC"
+    },
+    {
+        "gender": "der",
+        "german": "Stich",
+        "english": "the stitch",
+        "unique_id": "yYJiv1"
+    },
+    {
+        "gender": "das",
+        "german": "Loch",
+        "english": "the hole",
+        "unique_id": "YzpduE"
+    },
+    {
+        "gender": "der",
+        "german": "Fleck",
+        "english": "the stain",
+        "unique_id": "zd5neX"
+    },
+    {
+        "gender": "die",
+        "german": "Falte",
+        "english": "the wrinkle",
+        "unique_id": "vzwHWD"
+    },
+    {
+        "gender": "das",
+        "german": "Bügeleisen",
+        "english": "the iron",
+        "unique_id": "sRKfgL"
+    },
+    {
+        "gender": "das",
+        "german": "Bügelbrett",
+        "english": "the ironing board",
+        "unique_id": "1d9V1g"
+    },
+    {
+        "gender": "der",
+        "german": "Faden",
+        "english": "the thread",
+        "unique_id": "N0II2U"
+    },
+    {
+        "gender": "der",
+        "german": "Schnitt",
+        "english": "the cut",
+        "unique_id": "zZ8mPL"
+    },
+    {
+        "gender": "der",
+        "german": "Saum",
+        "english": "the hem",
+        "unique_id": "Zt7doA"
+    },
+    {
+        "gender": "die",
+        "german": "Naht",
+        "english": "the seam",
+        "unique_id": "v132RA"
+    },
+    {
+        "gender": "die",
+        "german": "Knopfleiste",
+        "english": "the button placket",
+        "unique_id": "EK5dQU"
+    },
+    {
+        "gender": "der",
+        "german": "Kragen",
+        "english": "the collar",
+        "unique_id": "KPFsxA"
+    },
+    {
+        "gender": "der",
+        "german": "Ärmel",
+        "english": "the sleeve",
+        "unique_id": "WziCb7"
+    },
+    {
+        "gender": "das",
+        "german": "Muster",
+        "english": "the pattern",
+        "unique_id": "koOxmn"
+    },
+    {
+        "gender": "die",
+        "german": "Größe",
+        "english": "the size",
+        "unique_id": "EbKX3D"
+    },
+    {
+        "gender": "der",
+        "german": "Stil",
+        "english": "the style",
+        "unique_id": "YbZJ1s"
+    },
+    {
+        "gender": "das",
+        "german": "Design",
+        "english": "the design",
+        "unique_id": "xngdfM"
+    },
+    {
+        "gender": "die",
+        "german": "Mode",
+        "english": "the fashion",
+        "unique_id": "7zto5L"
+    },
+    {
+        "gender": "das",
+        "german": "Material",
+        "english": "the material",
+        "unique_id": "9Ue8ud"
+    },
+    {
+        "gender": "das",
+        "german": "Gewebe",
+        "english": "the fabric",
+        "unique_id": "WUtPcE"
+    },
+    {
+        "gender": "die",
+        "german": "Wolle",
+        "english": "the wool",
+        "unique_id": "mNkBcU"
+    },
+    {
+        "gender": "die",
+        "german": "Seide",
+        "english": "the silk",
+        "unique_id": "gtyk0G"
+    },
+    {
+        "gender": "die",
+        "german": "Baumwolle",
+        "english": "the cotton",
+        "unique_id": "sD4zfg"
+    },
+    {
+        "gender": "das",
+        "german": "Leder",
+        "english": "the leather",
+        "unique_id": "QENB9o"
+    },
+    {
+        "gender": "das",
+        "german": "Denim",
+        "english": "the denim",
+        "unique_id": "BnBC9h"
+    },
+    {
+        "gender": "das",
+        "german": "Polyester",
+        "english": "the polyester",
+        "unique_id": "NbPt5F"
+    },
+    {
+        "gender": "das",
+        "german": "Viskose",
+        "english": "the viscose",
+        "unique_id": "l1qK7e"
+    },
+    {
+        "gender": "das",
+        "german": "Acryl",
+        "english": "the acrylic",
+        "unique_id": "wYsrKq"
+    },
+    {
+        "gender": null,
+        "german": "arbeiten",
+        "english": "to work",
+        "unique_id": "G4mycU"
+    },
+    {
+        "gender": null,
+        "german": "backen",
+        "english": "to bake",
+        "unique_id": "s7kV5a"
+    },
+    {
+        "gender": null,
+        "german": "basteln",
+        "english": "to craft",
+        "unique_id": "p23sfK"
+    },
+    {
+        "gender": null,
+        "german": "beantworten",
+        "english": "to answer",
+        "unique_id": "o4RSJ8"
+    },
+    {
+        "gender": null,
+        "german": "bedeuten",
+        "english": "to mean",
+        "unique_id": "JY4RiN"
+    },
+    {
+        "gender": null,
+        "german": "beginnen",
+        "english": "to begin",
+        "unique_id": "3K8YX0"
+    },
+    {
+        "gender": null,
+        "german": "begrüßen",
+        "english": "to greet",
+        "unique_id": "vCGdoy"
+    },
+    {
+        "gender": null,
+        "german": "beißen",
+        "english": "to bite",
+        "unique_id": "wvKAHt"
+    },
+    {
+        "gender": null,
+        "german": "beobachten",
+        "english": "to observe",
+        "unique_id": "N1DWXS"
+    },
+    {
+        "gender": null,
+        "german": "besuchen",
+        "english": "to visit",
+        "unique_id": "vPkDeU"
+    },
+    {
+        "gender": null,
+        "german": "bestellen",
+        "english": "to order",
+        "unique_id": "SYQ0Yg"
+    },
+    {
+        "gender": null,
+        "german": "bewegen",
+        "english": "to move",
+        "unique_id": "gfX6km"
+    },
+    {
+        "gender": null,
+        "german": "bringen",
+        "english": "to bring",
+        "unique_id": "R81iiM"
+    },
+    {
+        "gender": null,
+        "german": "danken",
+        "english": "to thank",
+        "unique_id": "IEuI8E"
+    },
+    {
+        "gender": null,
+        "german": "entschuldigen",
+        "english": "to apologize",
+        "unique_id": "OKMt2r"
+    },
+    {
+        "gender": null,
+        "german": "erklären",
+        "english": "to explain",
+        "unique_id": "OHdd9v"
+    },
+    {
+        "gender": null,
+        "german": "essen",
+        "english": "to eat",
+        "unique_id": "c61pIW"
+    },
+    {
+        "gender": null,
+        "german": "fahren",
+        "english": "to drive/to go",
+        "unique_id": "7mQRHz"
+    },
+    {
+        "gender": null,
+        "german": "feiern",
+        "english": "to celebrate",
+        "unique_id": "uCAxxG"
+    },
+    {
+        "gender": null,
+        "german": "finden",
+        "english": "to find",
+        "unique_id": "dCqj89"
+    },
+    {
+        "gender": null,
+        "german": "fliegen",
+        "english": "to fly",
+        "unique_id": "7AvKZm"
+    },
+    {
+        "gender": null,
+        "german": "fragen",
+        "english": "to ask",
+        "unique_id": "2ALOVE"
+    },
+    {
+        "gender": null,
+        "german": "geben",
+        "english": "to give",
+        "unique_id": "nSKPyv"
+    },
+    {
+        "gender": null,
+        "german": "gehen",
+        "english": "to go",
+        "unique_id": "ozzVnz"
+    },
+    {
+        "gender": null,
+        "german": "gelten",
+        "english": "to apply/to be valid",
+        "unique_id": "FLpZbh"
+    },
+    {
+        "gender": null,
+        "german": "genießen",
+        "english": "to enjoy",
+        "unique_id": "RbPIHd"
+    },
+    {
+        "gender": null,
+        "german": "gewinnen",
+        "english": "to win",
+        "unique_id": "wYB9gB"
+    },
+    {
+        "gender": null,
+        "german": "haben",
+        "english": "to have",
+        "unique_id": "qC8eiR"
+    },
+    {
+        "gender": null,
+        "german": "helfen",
+        "english": "to help",
+        "unique_id": "XhZCMK"
+    },
+    {
+        "gender": null,
+        "german": "hören",
+        "english": "to hear/to listen",
+        "unique_id": "qFVY8N"
+    },
+    {
+        "gender": null,
+        "german": "kaufen",
+        "english": "to buy",
+        "unique_id": "ujgcnZ"
+    },
+    {
+        "gender": null,
+        "german": "kennen",
+        "english": "to know",
+        "unique_id": "1NSeaW"
+    },
+    {
+        "gender": null,
+        "german": "kochen",
+        "english": "to cook",
+        "unique_id": "dHH8Kd"
+    },
+    {
+        "gender": null,
+        "german": "kommen",
+        "english": "to come",
+        "unique_id": "YnQWVv"
+    },
+    {
+        "gender": null,
+        "german": "kosten",
+        "english": "to cost/to taste",
+        "unique_id": "vK1yfo"
+    },
+    {
+        "gender": null,
+        "german": "lachen",
+        "english": "to laugh",
+        "unique_id": "ObFpiF"
+    },
+    {
+        "gender": null,
+        "german": "lernen",
+        "english": "to learn",
+        "unique_id": "UtHYDs"
+    },
+    {
+        "gender": null,
+        "german": "leben",
+        "english": "to live",
+        "unique_id": "zRgAxz"
+    },
+    {
+        "gender": null,
+        "german": "legen",
+        "english": "to lay/to put",
+        "unique_id": "Zd6Ipr"
+    },
+    {
+        "gender": null,
+        "german": "lesen",
+        "english": "to read",
+        "unique_id": "titmIJ"
+    },
+    {
+        "gender": null,
+        "german": "lieben",
+        "english": "to love",
+        "unique_id": "l6Fx77"
+    },
+    {
+        "gender": null,
+        "german": "machen",
+        "english": "to do/to make",
+        "unique_id": "e3BKcD"
+    },
+    {
+        "gender": null,
+        "german": "meinen",
+        "english": "to mean/to think",
+        "unique_id": "YelcHi"
+    },
+    {
+        "gender": null,
+        "german": "möchten",
+        "english": "to would like",
+        "unique_id": "Ma8a1H"
+    },
+    {
+        "gender": null,
+        "german": "müssen",
+        "english": "to must/to have to",
+        "unique_id": "llD0su"
+    },
+    {
+        "gender": null,
+        "german": "nehmen",
+        "english": "to take",
+        "unique_id": "jAjM9E"
+    },
+    {
+        "gender": null,
+        "german": "öffnen",
+        "english": "to open",
+        "unique_id": "0i4qT8"
+    },
+    {
+        "gender": null,
+        "german": "reisen",
+        "english": "to travel",
+        "unique_id": "zXo76M"
+    },
+    {
+        "gender": null,
+        "german": "sagen",
+        "english": "to say",
+        "unique_id": "F13Lc4"
+    },
+    {
+        "gender": null,
+        "german": "schreiben",
+        "english": "to write",
+        "unique_id": "7IFLNm"
+    },
+    {
+        "gender": null,
+        "german": "schwimmen",
+        "english": "to swim",
+        "unique_id": "0VyLsP"
+    },
+    {
+        "gender": null,
+        "german": "sehen",
+        "english": "to see",
+        "unique_id": "dVysk5"
+    },
+    {
+        "gender": null,
+        "german": "singen",
+        "english": "to sing",
+        "unique_id": "YE10MX"
+    },
+    {
+        "gender": null,
+        "german": "sitzen",
+        "english": "to sit",
+        "unique_id": "hHgRYg"
+    },
+    {
+        "gender": null,
+        "german": "sprechen",
+        "english": "to speak",
+        "unique_id": "MzmYTy"
+    },
+    {
+        "gender": null,
+        "german": "stehen",
+        "english": "to stand",
+        "unique_id": "5F9jO5"
+    },
+    {
+        "gender": null,
+        "german": "suchen",
+        "english": "to search/to look for",
+        "unique_id": "aygbGq"
+    },
+    {
+        "gender": null,
+        "german": "tanzen",
+        "english": "to dance",
+        "unique_id": "bYS4k2"
+    },
+    {
+        "gender": null,
+        "german": "tragen",
+        "english": "to wear/to carry",
+        "unique_id": "sjmGY3"
+    },
+    {
+        "gender": null,
+        "german": "trinken",
+        "english": "to drink",
+        "unique_id": "orIO5d"
+    },
+    {
+        "gender": null,
+        "german": "verstehen",
+        "english": "to understand",
+        "unique_id": "ZUHcXp"
+    },
+    {
+        "gender": null,
+        "german": "warten",
+        "english": "to wait",
+        "unique_id": "aFpA2u"
+    },
+    {
+        "gender": null,
+        "german": "wählen",
+        "english": "to choose/to vote",
+        "unique_id": "kNs8rY"
+    },
+    {
+        "gender": null,
+        "german": "wandern",
+        "english": "to hike",
+        "unique_id": "hPT59w"
+    },
+    {
+        "gender": null,
+        "german": "waschen",
+        "english": "to wash",
+        "unique_id": "mZHf4H"
+    },
+    {
+        "gender": null,
+        "german": "wissen",
+        "english": "to know",
+        "unique_id": "B9Qset"
+    },
+    {
+        "gender": null,
+        "german": "wohnen",
+        "english": "to live/to reside",
+        "unique_id": "8JIJ6I"
+    },
+    {
+        "gender": null,
+        "german": "zuhören",
+        "english": "to listen",
+        "unique_id": "i78jBT"
+    },
+    {
+        "gender": null,
+        "german": "alt",
+        "english": "old",
+        "unique_id": "cLSuGN"
+    },
+    {
+        "gender": null,
+        "german": "billig",
+        "english": "cheap",
+        "unique_id": "Fm2neE"
+    },
+    {
+        "gender": null,
+        "german": "dunkel",
+        "english": "dark",
+        "unique_id": "ZRPL6x"
+    },
+    {
+        "gender": null,
+        "german": "einfach",
+        "english": "simple/easy",
+        "unique_id": "vXE4y6"
+    },
+    {
+        "gender": null,
+        "german": "frisch",
+        "english": "fresh",
+        "unique_id": "R3DiqB"
+    },
+    {
+        "gender": null,
+        "german": "groß",
+        "english": "big/tall",
+        "unique_id": "wQ6GxU"
+    },
+    {
+        "gender": null,
+        "german": "gut",
+        "english": "good",
+        "unique_id": "FR6N0W"
+    },
+    {
+        "gender": null,
+        "german": "jung",
+        "english": "young",
+        "unique_id": "cXg8uy"
+    },
+    {
+        "gender": null,
+        "german": "klar",
+        "english": "clear",
+        "unique_id": "T54C6V"
+    },
+    {
+        "gender": null,
+        "german": "klein",
+        "english": "small",
+        "unique_id": "pqD4nt"
+    },
+    {
+        "gender": null,
+        "german": "langsam",
+        "english": "slow",
+        "unique_id": "FOA1Bi"
+    },
+    {
+        "gender": null,
+        "german": "lecker",
+        "english": "delicious/tasty",
+        "unique_id": "IlBKDA"
+    },
+    {
+        "gender": null,
+        "german": "laut",
+        "english": "loud",
+        "unique_id": "i9z7HB"
+    },
+    {
+        "gender": null,
+        "german": "modern",
+        "english": "modern",
+        "unique_id": "Hbgyte"
+    },
+    {
+        "gender": null,
+        "german": "müde",
+        "english": "tired",
+        "unique_id": "F8F6nN"
+    },
+    {
+        "gender": null,
+        "german": "neu",
+        "english": "new",
+        "unique_id": "S4opE0"
+    },
+    {
+        "gender": null,
+        "german": "nett",
+        "english": "nice",
+        "unique_id": "GK3vAh"
+    },
+    {
+        "gender": null,
+        "german": "sauer",
+        "english": "sour",
+        "unique_id": "MNnZ0F"
+    },
+    {
+        "gender": null,
+        "german": "schlecht",
+        "english": "bad",
+        "unique_id": "vpBwjc"
+    },
+    {
+        "gender": null,
+        "german": "schön",
+        "english": "beautiful/nice",
+        "unique_id": "7AbKx0"
+    },
+    {
+        "gender": null,
+        "german": "schnell",
+        "english": "fast",
+        "unique_id": "GEro6H"
+    },
+    {
+        "gender": null,
+        "german": "schwer",
+        "english": "heavy/difficult",
+        "unique_id": "3BTKSs"
+    },
+    {
+        "gender": null,
+        "german": "stark",
+        "english": "strong",
+        "unique_id": "PfMMxQ"
+    },
+    {
+        "gender": null,
+        "german": "teuer",
+        "english": "expensive",
+        "unique_id": "mv27yU"
+    },
+    {
+        "gender": null,
+        "german": "viel",
+        "english": "much/many",
+        "unique_id": "Ypqtv1"
+    },
+    {
+        "gender": null,
+        "german": "wenig",
+        "english": "little/few",
+        "unique_id": "tK1L6m"
+    },
+    {
+        "gender": null,
+        "german": "wichtig",
+        "english": "important",
+        "unique_id": "q5dKm4"
+    },
+    {
+        "gender": null,
+        "german": "zufrieden",
+        "english": "satisfied/content",
+        "unique_id": "yf54EB"
+    },
+    {
+        "gender": null,
+        "german": "zusammen",
+        "english": "together",
+        "unique_id": "DBMyzA"
+    },
+    {
+        "gender": null,
+        "german": "allein",
+        "english": "alone",
+        "unique_id": "XxJUym"
+    },
+    {
+        "gender": null,
+        "german": "anders",
+        "english": "different/other",
+        "unique_id": "aChnBL"
+    },
+    {
+        "gender": null,
+        "german": "arm",
+        "english": "poor",
+        "unique_id": "QVpDBv"
+    },
+    {
+        "gender": null,
+        "german": "besser",
+        "english": "better",
+        "unique_id": "h8WjK7"
+    },
+    {
+        "gender": null,
+        "german": "bewölkt",
+        "english": "cloudy",
+        "unique_id": "11aKiR"
+    },
+    {
+        "gender": null,
+        "german": "dick",
+        "english": "thick/fat",
+        "unique_id": "mDrtHs"
+    },
+    {
+        "gender": null,
+        "german": "dreckig",
+        "english": "dirty",
+        "unique_id": "VRFkU7"
+    },
+    {
+        "gender": null,
+        "german": "fertig",
+        "english": "finished/ready",
+        "unique_id": "Ot714t"
+    },
+    {
+        "gender": null,
+        "german": "froh",
+        "english": "happy/glad",
+        "unique_id": "4mJJlj"
+    },
+    {
+        "gender": null,
+        "german": "gesund",
+        "english": "healthy",
+        "unique_id": "DfxKOg"
+    },
+    {
+        "gender": null,
+        "german": "glücklich",
+        "english": "happy/lucky",
+        "unique_id": "CzFSMP"
+    },
+    {
+        "gender": null,
+        "german": "heiß",
+        "english": "hot",
+        "unique_id": "BAhwBD"
+    },
+    {
+        "gender": null,
+        "german": "kalt",
+        "english": "cold",
+        "unique_id": "P0TLM6"
+    },
+    {
+        "gender": null,
+        "german": "klug",
+        "english": "smart/intelligent",
+        "unique_id": "b1ngdo"
+    },
+    {
+        "gender": null,
+        "german": "krank",
+        "english": "sick/ill",
+        "unique_id": "mQmbI3"
+    },
+    {
+        "gender": null,
+        "german": "lang",
+        "english": "long",
+        "unique_id": "U96AI8"
+    },
+    {
+        "gender": null,
+        "german": "leise",
+        "english": "quiet/soft",
+        "unique_id": "qdIrnD"
+    },
+    {
+        "gender": null,
+        "german": "leicht",
+        "english": "light/easy",
+        "unique_id": "WatiXL"
+    },
+    {
+        "gender": null,
+        "german": "schwach",
+        "english": "weak",
+        "unique_id": "2Sr54e"
+    },
+    {
+        "gender": null,
+        "german": "stolz",
+        "english": "proud",
+        "unique_id": "TYGGCy"
+    },
+    {
+        "gender": null,
+        "german": "toll",
+        "english": "great/fantastic",
+        "unique_id": "U60u9X"
+    },
+    {
+        "gender": null,
+        "german": "traurig",
+        "english": "sad",
+        "unique_id": "WQp7kB"
+    },
+    {
+        "gender": null,
+        "german": "warm",
+        "english": "warm",
+        "unique_id": "uyENEt"
+    },
+    {
+        "gender": "die",
+        "german": "Banane",
+        "english": "banana",
+        "unique_id": "9YDqno"
+    },
+    {
+        "gender": "die",
+        "german": "Eier",
+        "english": "eggs",
+        "unique_id": "GuReml"
+    },
+    {
+        "gender": "der",
+        "german": "Käse",
+        "english": "cheese",
+        "unique_id": "unkeSB"
+    },
+    {
+        "gender": "der",
+        "german": "Salat",
+        "english": "salad",
+        "unique_id": "saSWSK"
+    },
+    {
+        "gender": "die",
+        "german": "Karotte",
+        "english": "carrot",
+        "unique_id": "1zR9Lg"
+    },
+    {
+        "gender": "der",
+        "german": "Zucker",
+        "english": "sugar",
+        "unique_id": "n1gH5O"
+    },
+    {
+        "gender": "die",
+        "german": "Marmelade",
+        "english": "jam",
+        "unique_id": "lkoSCc"
+    },
+    {
+        "gender": "der",
+        "german": "Vater",
+        "english": "father",
+        "unique_id": "CZDPg4"
+    },
+    {
+        "gender": "die",
+        "german": "Mutter",
+        "english": "mother",
+        "unique_id": "OszNJP"
+    },
+    {
+        "gender": "der",
+        "german": "Sohn",
+        "english": "son",
+        "unique_id": "gfihfj"
+    },
+    {
+        "gender": "die",
+        "german": "Tochter",
+        "english": "daughter",
+        "unique_id": "LN9FBJ"
+    },
+    {
+        "gender": "der",
+        "german": "Bruder",
+        "english": "brother",
+        "unique_id": "FF5WhM"
+    },
+    {
+        "gender": "die",
+        "german": "Schwester",
+        "english": "sister",
+        "unique_id": "5iZwP3"
+    },
+    {
+        "gender": "die",
+        "german": "Eltern",
+        "english": "parents",
+        "unique_id": "wfptyj"
+    },
+    {
+        "gender": "die",
+        "german": "Großeltern",
+        "english": "grandparents",
+        "unique_id": "u9KKg1"
+    },
+    {
+        "gender": "der",
+        "german": "Onkel",
+        "english": "uncle",
+        "unique_id": "Zqv6va"
+    },
+    {
+        "gender": "die",
+        "german": "Tante",
+        "english": "aunt",
+        "unique_id": "sXr1wD"
+    },
+    {
+        "gender": "der",
+        "german": "Cousin",
+        "english": "male cousin",
+        "unique_id": "aV8COP"
+    },
+    {
+        "gender": "die",
+        "german": "Cousine",
+        "english": "female cousin",
+        "unique_id": "lG34sl"
+    }
+]
